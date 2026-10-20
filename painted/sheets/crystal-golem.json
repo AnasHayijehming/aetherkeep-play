@@ -1,0 +1,45 @@
+{
+  "model": "crystal-golem",
+  "bakedKind": "orc",
+  "cells": {
+    "move": {
+      "world": 2.6999257175624374,
+      "anchor": [
+        0.47783090705038195,
+        0.2588919035856346
+      ]
+    },
+    "attack": {
+      "world": 3.416888351552189,
+      "anchor": [
+        0.43856956439863,
+        0.2597701155139744
+      ]
+    },
+    "death": {
+      "world": 3.315689370185137,
+      "anchor": [
+        0.4968607416072049,
+        0.3327284089627879
+      ]
+    }
+  },
+  "fitScale": 1,
+  "bind": [
+    2.000000240721903,
+    2.2742520570755005
+  ],
+  "durations": {
+    "move": 1.6,
+    "attack": 0.9,
+    "death": 1.2
+  },
+  "width": 2048,
+  "height": 1024,
+  "style": "toon",
+  "elevation": 38.73,
+  "saturation": 1.3,
+  "tint": null,
+  "glow": null,
+  "glowStrength": 1.0
+}

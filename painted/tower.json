@@ -1,0 +1,497 @@
+{
+ "size": [
+  2048,
+  1024
+ ],
+ "scale": 0.7,
+ "pieces": {
+  "body-1": {
+   "rect": [
+    721,
+    6,
+    260,
+    335
+   ],
+   "source": "tower-stages.png",
+   "at": [
+    57,
+    393
+   ],
+   "art": [
+    371,
+    479
+   ]
+  },
+  "body-2": {
+   "rect": [
+    408,
+    6,
+    307,
+    451
+   ],
+   "source": "tower-stages.png",
+   "at": [
+    497,
+    235
+   ],
+   "art": [
+    438,
+    645
+   ]
+  },
+  "body-3": {
+   "rect": [
+    6,
+    6,
+    396,
+    550
+   ],
+   "source": "tower-stages.png",
+   "at": [
+    962,
+    89
+   ],
+   "art": [
+    566,
+    785
+   ]
+  },
+  "canister": {
+   "rect": [
+    1835,
+    283,
+    143,
+    239
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    127,
+    585
+   ],
+   "art": [
+    204,
+    341
+   ]
+  },
+  "cap-ice": {
+   "rect": [
+    987,
+    6,
+    184,
+    289
+   ],
+   "source": "tower-capstones.png",
+   "at": [
+    859,
+    321
+   ],
+   "art": [
+    263,
+    413
+   ]
+  },
+  "cap-prism": {
+   "rect": [
+    1328,
+    6,
+    209,
+    283
+   ],
+   "source": "tower-capstones.png",
+   "at": [
+    112,
+    328
+   ],
+   "art": [
+    298,
+    404
+   ]
+  },
+  "cap-storm": {
+   "rect": [
+    1177,
+    6,
+    145,
+    288
+   ],
+   "source": "tower-capstones.png",
+   "at": [
+    1225,
+    306
+   ],
+   "art": [
+    207,
+    411
+   ]
+  },
+  "cap-sun": {
+   "rect": [
+    987,
+    301,
+    170,
+    171
+   ],
+   "source": "tower-capstones.png",
+   "at": [
+    497,
+    418
+   ],
+   "art": [
+    243,
+    244
+   ]
+  },
+  "crystal": {
+   "rect": [
+    1835,
+    6,
+    148,
+    271
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    181,
+    113
+   ],
+   "art": [
+    212,
+    387
+   ]
+  },
+  "fork-core-nova-power": {
+   "rect": [
+    821,
+    347,
+    154,
+    150
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    759,
+    559
+   ],
+   "art": [
+    386,
+    375
+   ],
+   "scale": 0.4
+  },
+  "fork-core-nova-rush": {
+   "rect": [
+    1316,
+    495,
+    133,
+    124
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    1163,
+    591
+   ],
+   "art": [
+    333,
+    310
+   ],
+   "scale": 0.4
+  },
+  "fork-fire-meteor": {
+   "rect": [
+    1163,
+    301,
+    150,
+    160
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    38,
+    64
+   ],
+   "art": [
+    374,
+    400
+   ],
+   "scale": 0.4
+  },
+  "fork-fire-wildfire": {
+   "rect": [
+    562,
+    463,
+    142,
+    144
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    402,
+    103
+   ],
+   "art": [
+    355,
+    359
+   ],
+   "scale": 0.4
+  },
+  "fork-frost-brittle": {
+   "rect": [
+    408,
+    463,
+    148,
+    145
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    1142,
+    105
+   ],
+   "art": [
+    369,
+    362
+   ],
+   "scale": 0.4
+  },
+  "fork-frost-glacier": {
+   "rect": [
+    981,
+    478,
+    132,
+    133
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    783,
+    133
+   ],
+   "art": [
+    329,
+    333
+   ],
+   "scale": 0.4
+  },
+  "fork-storm-chain": {
+   "rect": [
+    1163,
+    467,
+    147,
+    140
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    35,
+    566
+   ],
+   "art": [
+    367,
+    350
+   ],
+   "scale": 0.4
+  },
+  "fork-storm-thunder": {
+   "rect": [
+    721,
+    347,
+    94,
+    160
+   ],
+   "source": "tower-forks.png",
+   "at": [
+    470,
+    541
+   ],
+   "art": [
+    234,
+    400
+   ],
+   "scale": 0.4
+  },
+  "fx-dust": {
+   "rect": [
+    710,
+    513,
+    196,
+    121
+   ],
+   "source": "tower-fx.png",
+   "at": [
+    967,
+    689
+   ],
+   "art": [
+    392,
+    242
+   ],
+   "scale": 0.5
+  },
+  "fx-flare": {
+   "rect": [
+    1328,
+    295,
+    174,
+    194
+   ],
+   "source": "tower-fx.png",
+   "at": [
+    1016,
+    144
+   ],
+   "art": [
+    348,
+    387
+   ],
+   "scale": 0.5
+  },
+  "fx-rune": {
+   "rect": [
+    1543,
+    6,
+    286,
+    278
+   ],
+   "source": "tower-fx.png",
+   "at": [
+    156,
+    49
+   ],
+   "art": [
+    571,
+    555
+   ],
+   "scale": 0.5
+  },
+  "fx-spark": {
+   "rect": [
+    1922,
+    528,
+    104,
+    110
+   ],
+   "source": "tower-fx.png",
+   "at": [
+    339,
+    689
+   ],
+   "art": [
+    208,
+    220
+   ],
+   "scale": 0.5
+  },
+  "glyph-core": {
+   "rect": [
+    150,
+    562,
+    80,
+    81
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    1289,
+    772
+   ],
+   "art": [
+    114,
+    116
+   ]
+  },
+  "glyph-fire": {
+   "rect": [
+    79,
+    562,
+    65,
+    86
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    720,
+    766
+   ],
+   "art": [
+    93,
+    123
+   ]
+  },
+  "glyph-frost": {
+   "rect": [
+    1455,
+    495,
+    77,
+    88
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    897,
+    766
+   ],
+   "art": [
+    110,
+    126
+   ]
+  },
+  "glyph-storm": {
+   "rect": [
+    6,
+    562,
+    67,
+    88
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    1102,
+    768
+   ],
+   "art": [
+    96,
+    126
+   ]
+  },
+  "liquid": {
+   "rect": [
+    1823,
+    528,
+    93,
+    120
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    442,
+    724
+   ],
+   "art": [
+    133,
+    172
+   ]
+  },
+  "ring": {
+   "rect": [
+    1543,
+    290,
+    274,
+    272
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    618,
+    110
+   ],
+   "art": [
+    391,
+    388
+   ]
+  },
+  "stud": {
+   "rect": [
+    912,
+    503,
+    56,
+    70
+   ],
+   "source": "tower-parts.png",
+   "at": [
+    1272,
+    276
+   ],
+   "art": [
+    80,
+    100
+   ]
+  }
+ }
+}

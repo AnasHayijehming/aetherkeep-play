@@ -1,0 +1,45 @@
+{
+  "model": "bat-gargoyle",
+  "bakedKind": "demon",
+  "cells": {
+    "move": {
+      "world": 3.454776040837169,
+      "anchor": [
+        0.5000000132091937,
+        0.2927610218173548
+      ]
+    },
+    "attack": {
+      "world": 3.2089330042060467,
+      "anchor": [
+        0.5093269657133332,
+        0.27994022674252
+      ]
+    },
+    "death": {
+      "world": 4.723049469441176,
+      "anchor": [
+        0.515967899870465,
+        0.40598842567326865
+      ]
+    }
+  },
+  "fitScale": 1,
+  "bind": [
+    2.0000001278282866,
+    3.223658561706543
+  ],
+  "durations": {
+    "move": 1.2,
+    "attack": 0.6,
+    "death": 0.8
+  },
+  "width": 2048,
+  "height": 1024,
+  "style": "toon",
+  "elevation": 38.73,
+  "saturation": 1.3,
+  "tint": null,
+  "glow": null,
+  "glowStrength": 1.0
+}
