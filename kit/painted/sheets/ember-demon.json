@@ -1,0 +1,45 @@
+{
+  "model": "ember-demon",
+  "bakedKind": "alien",
+  "cells": {
+    "move": {
+      "world": 2.3555227918177843,
+      "anchor": [
+        0.49664980277958204,
+        0.21297064406399535
+      ]
+    },
+    "attack": {
+      "world": 2.645308646578342,
+      "anchor": [
+        0.5000000043128054,
+        0.20418581933193722
+      ]
+    },
+    "death": {
+      "world": 2.927260360568762,
+      "anchor": [
+        0.4818759271211274,
+        0.2593600103388238
+      ]
+    }
+  },
+  "fitScale": 1,
+  "bind": [
+    1.9999998935339747,
+    1.8831257820129395
+  ],
+  "durations": {
+    "move": 0.5333333333333333,
+    "attack": 0.7,
+    "death": 1.1
+  },
+  "width": 2048,
+  "height": 1024,
+  "style": "toon",
+  "elevation": 38.73,
+  "saturation": 1.3,
+  "tint": null,
+  "glow": null,
+  "glowStrength": 1.0
+}
