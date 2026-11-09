@@ -1,0 +1,38 @@
+{
+  "cells": {
+    "move": {
+      "world": 3.0303030303030303,
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "attack": {
+      "world": 3.0303030303030303,
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    },
+    "death": {
+      "world": 3.0303030303030303,
+      "anchor": [
+        0.5,
+        0.2
+      ]
+    }
+  },
+  "fitScale": 1,
+  "bind": [
+    2,
+    2.012
+  ],
+  "durations": {
+    "move": 1.2,
+    "attack": 0.7,
+    "death": 1
+  },
+  "width": 2048,
+  "height": 1024,
+  "cutout": "docs/design/level-2/rally-parts"
+}
